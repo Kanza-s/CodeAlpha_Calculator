@@ -1,3 +1,3 @@
-# CodeAlpha_Calculator
+kì # CodeAlpha_Calculator
 My second task of making calculator website.
-Doing basic calculation wuth having its own unique favicon on website
+Doing basic calculation with having its own unique favicon on website
